@@ -1,5 +1,5 @@
-## Meesho Clone [Meesho Clone](https://meesho-by-nitrogen.netlify.app) [![Website https://meesho-by-nitrogen.netlify.app](https://img.shields.io/website-up-down-green-red/https/meesho-by-nitrogen.netlify.app.svg)](https://meesho-by-nitrogen.netlify.app/)
-Meesho is an indian e-commerce company, We tried core functionalities of Meesho during Third Construct Week held after completition of Unit 4 in Masai.
+## Myntra Clone [Myntra Clone](https://myntra-by-nitrogen.netlify.app) [![Website https://myntra-by-nitrogen.netlify.app](https://img.shields.io/website-up-down-green-red/https/myntra-by-nitrogen.netlify.app.svg)](https://myntra-by-nitrogen.netlify.app/)
+Myntra is an indian e-commerce company.
 
 ## Technologies used :-
 1) React
@@ -16,14 +16,7 @@ Meesho is an indian e-commerce company, We tried core functionalities of Meesho 
 
 ## Contributions:-
 
-### [Nikhil Kumar](https://github.com/12NikhilKumar) - [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-520300218)
-
-### [Pratham Agrawal](https://github.com/pratham2002) - [LinkedIn](https://www.linkedin.com/in/pratham-agrawal-940590174)
-
-### [Ravi Shukla](https://github.com/Rshukla12) - [LinkedIn](https://www.linkedin.com/in/ravi-shukla-94036693)
-
-### [Vandana Tiwari](https://github.com/vandna0906) - [LinkedIn](https://www.linkedin.com/in/vandna-tiwari)
-
+### Shweta
 ## Deploy Locally
 
 ### Steps to deploy
